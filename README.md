@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sonabuwa
-- 👀 Love to get stuck with code problems
+- 👀 Love to get stuck with coding problems
 - 🌱 I’m currently learning web development( Frontend Development Compeletd (≧∇≦)ﾉ )
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://www.linkedin.com/in/sonali-buwade-379346224/
